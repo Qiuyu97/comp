@@ -59,7 +59,7 @@ home.js,找到getColumns()方法的return[ {},{},{} ]，大括号里写的是查
 
 对应的浏览器部分：
 
-![image-20201025195815211](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\image-20201025195815211.png)
+![image-20201025195815211](/static/picture/image-20201025195815211.png)
 
  home.js文件中自己的render()方法，返回的是<PageHeaderWrapper>组件，是整个页面的布局。
 
@@ -75,7 +75,7 @@ return (
 
 在浏览器的样子是：
 
-![image-20201028094002018](D:\sinosoft\1、NEWCOMP新人培训期相关资料\培训笔记\笔记\react.assets\image-20201028094002018.png)
+![image-20201028094002018](/static/picture/image-20201028094002018.png)
 
 拿第一个Card说明：
 
@@ -148,7 +148,7 @@ queryAdvance.js文件，这个文件主要是做查询条件的组件配置，�
 
 上面代码对应浏览器的部分：
 
-![image-20201028094949515](D:\sinosoft\1、NEWCOMP新人培训期相关资料\培训笔记\笔记\react.assets\image-20201028094949515.png)
+![image-20201028094949515](/static/picture/image-20201028094949515.png)
 
 ## 5.  edit.js
 
@@ -254,7 +254,7 @@ handleSubmit = e => {
 
 对应浏览器的部分是：
 
-![image-20201028095718870](D:\sinosoft\1、NEWCOMP新人培训期相关资料\培训笔记\笔记\react.assets\image-20201028095718870.png)
+![image-20201028095718870](/static/picture/image-20201028095718870.png)
 
 
 
@@ -293,7 +293,7 @@ console.log('queryPara',queryPara)
 console.log('response' ,response)
 ```
 
-![image-20201028135507593](D:\sinosoft\1、NEWCOMP新人培训期相关资料\培训笔记\笔记\react.assets\image-20201028135507593.png)
+![image-20201028135507593](/static/picture/image-20201028135507593.png)
 
 后端的查询部分：
 
