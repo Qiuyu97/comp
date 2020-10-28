@@ -1,3 +1,4 @@
+@[TOC](目录结构)
 ## 1. router.config.js
 
 在config文件夹下找到router.config.js，配置路由
