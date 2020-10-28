@@ -1015,7 +1015,7 @@ export default Uploading;
 
 前端页面到这里就配置好了，
 
-![image-20201028144508944](D:\sinosoft\1、NEWCOMP新人培训期相关资料\培训笔记\笔记\react.assets\image-20201028144508944.png)
+![image-20201028144508944](/static/picture/image-20201028144508944.png)
 
 接下来是实现导入模板
 
