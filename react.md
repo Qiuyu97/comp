@@ -76,7 +76,7 @@ return (
 
 在浏览器的样子是：
 
-![image-20201028094002018](/static/picture/image-20201028094002018.png)
+![image-20201028094002018](static/picture/image-20201028094002018.png)
 
 拿第一个Card说明：
 
